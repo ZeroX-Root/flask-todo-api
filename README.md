@@ -12,7 +12,7 @@ Una API RESTful para gestionar tareas (to-do list) con autenticación JWT, desar
 
 1. **Clona el repositorio:**
    ```bash
-   git clone <url-del-repo>
+   git clone https://github.com/ZeroX-Root/flask-todo-api.git
    cd to-do-list-flask
    ```
 
